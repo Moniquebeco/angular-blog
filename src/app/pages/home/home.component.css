@@ -1,0 +1,20 @@
+.container__articles {
+    margin: 20px 0 0 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.articles__main {
+    margin: 0 2em 0 0;
+}
+
+.articles__others {
+    /* max-width: 45%; */
+}
+
+header {
+    margin: 15px 0 0 0;
+    display: flex;
+    justify-content: center;
+}
